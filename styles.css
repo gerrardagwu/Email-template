@@ -43,6 +43,15 @@ body {
   gap: 24px;
 }
 
+@media (max-width: 600px) {
+  .template {
+    width: 90%;
+    padding: 40px 20px;
+    gap: 16px;
+  }
+  
+}
+
 
 .illustration {
   height: 107px;
