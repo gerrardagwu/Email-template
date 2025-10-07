@@ -68,6 +68,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   font-weight: bold;
+  text-align: center;
 }
 
 .sub-text,
@@ -144,3 +145,4 @@ body {
 .footer-text {
   font-size: 12px;
 }
+
